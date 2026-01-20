@@ -7,13 +7,13 @@
 
 Strategic and performance-driven **Full-Stack Developer**, primarily focused on **Laravel + Vue** ecosystems. I build secure, scalable, and maintainable web applications that don’t require a fire extinguisher every sprint.
 
-I thrive on writing clean backend code in PHP, exploring JS frameworks, and figuring out how to Dockerize anything that dares run on a server. I am currently upskilling in React, Next.js, and Go because why stop at one frontend framework or one compiled language?
+I thrive on writing clean backend code in PHP, exploring JS frameworks, and figuring out how to Dockerize anything that dares run on a server. I am currently upskilling in React, Next.js, and Python because why stop at one frontend framework or one compiled language?
 
 ---
 
 ## 🧪 Tech Stack
 
-- 🧠 **Languages:** PHP, JavaScript, Bash, SQL, Go (learning)
+- 🧠 **Languages:** PHP, JavaScript, Bash, SQL, Python (learning)
 - ⚙️ **Frameworks & Tools:** Laravel, Vue.js, Nuxt.js, React (learning), Next.js (learning)
 - 📦 **DevOps & Tools:** Docker, Git, GitHub, PhpMyAdmin, Jira, ClickUp
 - 🧱 **Skills:** API Integration, Backend Architecture, Validation Layers, Testing (PEST), DB Optimization
