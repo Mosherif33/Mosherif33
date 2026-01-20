@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Sherif (Mosherif33) 👋</h1>
-<p align="center">Full-Stack Web Developer • Laravel Junkie • Vue/Nuxt Enthusiast • Learning React & Go like a madman</p>
+<p align="center">Full-Stack Web Developer • Laravel Junkie • Vue/Nuxt Enthusiast • Learning Paython like a madman</p>
 
 ---
 
