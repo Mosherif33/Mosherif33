@@ -43,7 +43,6 @@ I thrive on writing clean backend code in PHP, exploring JS frameworks, and figu
 ## 🚀 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohammadsherif/)
-- 🐦 [Twitter](https://x.com/MoSherif94)
 
 ---
 
