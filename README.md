@@ -13,7 +13,7 @@ I thrive on writing clean backend code in PHP, exploring JS frameworks, and figu
 
 ## 🧪 Tech Stack
 
-- 🧠 **Languages:** PHP, JavaScript, Bash, SQL, Python (learning)
+- 🧠 **Languages:** PHP, JavaScript, Bash, SQL, Python
 - ⚙️ **Frameworks & Tools:** Laravel, Vue.js, Nuxt.js, React (learning), Next.js (learning)
 - 📦 **DevOps & Tools:** Docker, Git, GitHub, PhpMyAdmin, Jira, ClickUp
 - 🧱 **Skills:** API Integration, Backend Architecture, Validation Layers, Testing (PEST), DB Optimization
